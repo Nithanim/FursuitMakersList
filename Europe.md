@@ -5,7 +5,7 @@
 
 ## Austria
 * https://t.me/pawsome_fursuits
-* [bublydragon](https://www.instagram.com/bublydragon/)
+* [bublydragon](https://www.instagram.com/bublydragon/) (Oberösterreich)
   * https://t.me/bublydragonwork
   * https://trello.com/b/BFilkVgT/commission-list
   * https://trello.com/b/dF4zHLVs/commission-prices
