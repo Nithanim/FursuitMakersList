@@ -22,15 +22,6 @@ It is shitty having to sift through hundreds of messages to (hopefully) find thi
 * [OTHER](Other.md)
 
 ## Updates
-
-UPDATE 2025-02-26: Sorted Europe countries alphabetically (hopefully)
-
-UPDATE 2025-02-28: Added makers from Italy and Spain
-
-UPDATE 2025-03-08: Added maker from Hungary
-
-UPDATE 2025-03-08: Updated BerryBarnWorks
-
-UPDATE 2025-03-09: Updated general info
+Take a look at the commit history of this repository.
 
 
