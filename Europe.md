@@ -30,6 +30,7 @@
 ## Denmark
 * https://alphadogs.dk/
 * https://furdelicious.net/ (closed, at time of writing)
+* https://crittercreaturesuits.dk/
 
 ## Estonia
 * ~~https://aaikoboi.carrd.co/ (Tallinn) (maybe dead?)~~
