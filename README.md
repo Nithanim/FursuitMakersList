@@ -12,7 +12,7 @@ List of premades for sale: https://gist.github.com/Nithanim/c4421febea565c3ed11e
 > If anything is wrong or old or you want on the list, DM me on Telegram (or open an issue or discussion here)!
 > I am unable to check every maker periodically, so it would be great if you could point out issues!
 
-To all makers: make it easy and quick to find your offerings, prices, terms of service, commission queue and country!
+**To all makers**: make it easy and quick to find your offerings (partial or full, foam or TPU, ...), prices, terms of service, commission queue and country!
 It is shitty having to sift through hundreds of messages to (hopefully) find this stuff - multiplied for *every* maker! At least pin an info post in your TG channel. Thank you!
 
 
