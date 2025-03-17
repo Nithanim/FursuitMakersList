@@ -6,6 +6,9 @@ Basic requirement for inclusion is having recent signs of life (like reachable w
 > [!WARNING]
 > This is just a collection of makers, no recommendation! Always inform yourself thoroughly before commissioning! Also check the terms of services for legal conformity - know the law of your/their country!
 
+> [!NOTE]
+> There are makers in the list that have been grandfathered in although they do not qualify (e.g. missing info) to be included.
+
 List of premades for sale: https://gist.github.com/Nithanim/c4421febea565c3ed11e8f201064f145
 
 > [!TIP]
@@ -13,7 +16,7 @@ List of premades for sale: https://gist.github.com/Nithanim/c4421febea565c3ed11e
 > I am unable to check every maker periodically, so it would be great if you could point out issues!
 
 **To all makers**: make it easy and quick to find your offerings (partial or full, foam or TPU, ...), prices, terms of service, commission queue and country!
-It is shitty having to sift through hundreds of messages to (hopefully) find this stuff - multiplied for *every* maker! At least pin an info post in your TG channel. Thank you!
+It is shitty having to sift through hundreds of messages to (hopefully) find (and deduce) this stuff - multiplied for *every* maker! At least pin an info post in your TG channel. Thank you!
 
 
 ## Lists
