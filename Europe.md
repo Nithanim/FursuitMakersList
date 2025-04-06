@@ -99,11 +99,10 @@
 * https://tomacats.carrd.co/ (far east)
 
 ## Sweden
-* VulcanWood
-  * https://www.instagram.com/vulcan_wood
-  * https://vulcanwood.carrd.co/
+* VulcanWood: [Linklist](https://vulcanwood.carrd.co/), [Instagram](https://www.instagram.com/vulcan_wood) 
 * https://snarfy.carrd.co/ (?)
 * https://www.funtimestudios.net/
+* Blacksticky: [Website](https://blacksticky.com/), [Bluesky](https://bsky.app/profile/blacksticky.bsky.social)
 
 ## UK
 * http://www.randdfursuits.co.uk/
