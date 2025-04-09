@@ -4,7 +4,6 @@
 # Europe
 
 ## Austria
-* https://t.me/pawsome_fursuits
 * [bublydragon](https://www.instagram.com/bublydragon/) (Oberösterreich)
   * https://t.me/bublydragonwork
   * https://trello.com/b/BFilkVgT/commission-list
@@ -13,6 +12,7 @@
   * https://t.me/pumpcat_spice
   * https://linktr.ee/pumpcat_spice
 * https://linktr.ee/evilmakers (Vienna)
+* Pawsome Fursuits (or russian???, conflicting info): [Website](https://pawsomefursuits.com/), [Telegram](https://t.me/pawsome_fursuits)
 
 ## Bulgaria
 * BerryBarnWorks (Very new, focus on premades as of 2025-03-09)
