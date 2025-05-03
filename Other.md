@@ -4,11 +4,15 @@
 * https://bycats4cats.com/
 
 # Other
-## Brazil
-* https://paciulofursuits.carrd.co/
+
+## Australia
+* https://www.easterndragonstudios.com/
 
 ## Argentina
 * https://www.koshkafursuits.com/
+
+## Brazil
+* https://paciulofursuits.carrd.co/
 
 ## Japan
 * https://xcancel.com/kigurumikagetsu
