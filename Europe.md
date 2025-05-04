@@ -13,6 +13,7 @@
   * https://linktr.ee/pumpcat_spice
 * https://linktr.ee/evilmakers (Vienna)
 * Pawsome Fursuits (or russian???, conflicting info): [Website](https://pawsomefursuits.com/), [Telegram](https://t.me/pawsome_fursuits)
+* Buns and Bacon (Salzburg Umgebung?): [Website](https://www.BunsAndBacon.eu), [Telegram](https://t.me/BunsAndBacon)
 
 ## Bulgaria
 * BerryBarnWorks (Very new, focus on premades as of 2025-03-09)
