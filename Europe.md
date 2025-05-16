@@ -70,7 +70,7 @@
 
 ### Unknown
 * https://linktr.ee/bakapawcreation
-* https://www.furaffinity.net/user/vultured-fursuits/
+* Vultured Fursuits: [FurAffinity](https://www.furaffinity.net/user/vultured-fursuits/), [Telegram](https://t.me/vulturedfursuits)
 * https://t.me/deertailcreations
 * Cwoodsdean Creations (France & UK ???)
   * https://xcancel.com/cwdcreations_uk
