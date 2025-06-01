@@ -67,6 +67,7 @@
 * Fellow Beasts (Commissions closed, expected open end of 2025)
   * https://fellowbeasts.de/
   * https://t.me/FellowBeasts
+* That Birb's Creations (former: DragonCraft Creations): [Carrd.co](https://thatbirbscreationstos.carrd.co/), [Telegram](https://t.me/DragonCraftsbts) (Sometimes in Chile and shipping from there?)
 
 ### Unknown
 * https://linktr.ee/bakapawcreation
@@ -76,7 +77,6 @@
   * https://xcancel.com/cwdcreations_uk
   * https://www.facebook.com/cwoodsdeancreations/
   * https://cwoodsdean.wixsite.com/cwoodsdeancreations (main domain defunct: https://www.cwoodsdeancreations.com/ ?)
-* That Birb's Creations: [Carrd.co](https://thatbirbscreationstos.carrd.co/), [Telegram](https://t.me/DragonCraftsbts) (Sometimes in Chile and shipping from there?)
 
 ## Hungary
 * https://linktr.ee/yeenbug
