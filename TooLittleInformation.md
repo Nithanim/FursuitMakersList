@@ -3,5 +3,5 @@ This List contains makers that exsist and seem to have shipped stuff but have to
 Add TOS, prices and location, people!
 
 ## Makers
-* https://furnekkocreations.carrd.co/
+* https://furnekkocreations.carrd.co/ (Regensburg)
 
