@@ -76,6 +76,7 @@
   * https://xcancel.com/cwdcreations_uk
   * https://www.facebook.com/cwoodsdeancreations/
   * https://cwoodsdean.wixsite.com/cwoodsdeancreations (main domain defunct: https://www.cwoodsdeancreations.com/ ?)
+* That Birb's Creations: [Carrd.co](https://thatbirbscreationstos.carrd.co/), [Telegram](https://t.me/DragonCraftsbts) (Sometimes in Chile and shipping from there?)
 
 ## Hungary
 * https://linktr.ee/yeenbug
