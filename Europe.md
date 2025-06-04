@@ -33,6 +33,7 @@
 * https://alphadogs.dk/
 * https://furdelicious.net/ (closed, at time of writing)
 * https://crittercreaturesuits.dk/
+* Oktavia's Creatures: [Telegram](https://t.me/OktaviasCreatures), [Website](https://oktaviascreatures.com/)
 
 ## Estonia
 * ~~https://aaikoboi.carrd.co/ (Tallinn) (maybe dead?)~~
